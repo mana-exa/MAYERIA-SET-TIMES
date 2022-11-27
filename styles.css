@@ -1,0 +1,28 @@
+header {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body{
+    background-color: black;
+    text-align: center;
+    color: rgb(137, 17, 129);
+    margin: auto;
+    padding: 2em;
+}
+div {
+font-family:'Courier New', Courier, monospace;
+font-size: 50px;
+}
+
+
+a{
+    text-align: center;
+}
+
+
+img {
+    width: 60%;
+    padding: 2em;
+}
